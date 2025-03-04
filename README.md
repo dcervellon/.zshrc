@@ -1,0 +1,2 @@
+# .zshrc
+Configuration .zshrc
